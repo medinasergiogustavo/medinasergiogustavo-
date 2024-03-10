@@ -14,3 +14,4 @@ Atualmente professor das seguintes IES:
 
 Experiência na área de Ciência da Computação, Ciência de Dados com Python, redes de computadores, Engenharia Mecatrônica, Engenharia Eletrônica Engenharia de Produção.
 Integrador de Sistemas (Demótica - Casa inteligente), Gestão da Tecnologia e de Inovação Tecnológica. Qualidade em processos de Software.
+
