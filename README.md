@@ -1,5 +1,6 @@
 # medinasergiogustavo-
 Apresentação
+
 Doutor em Engenharia de Produção (Industrial Engineering), Título: "TELEMEDICINA: UM PROJETO DE SISTEMA PREVENTIVO PARA A SAÚDE DOTRABALHADOR", Área: Redes de empresas e planejamento da produção ( UNIP - Conceito CAPES 5).
 
 Mestrado em CIÊNCIAS DA COMPUTAÇÃO, Título: "AN INCREMENTAL LEARNING APPROACH FOR TROUBLESHOOTING SYSTEM " - área de Inteligência Artificial pelo INSTITUTO TECNOLÓGICO DE TÓQUIO -JAPÃO (1996) - Bolsista do governo Japonês (Monbusho).
